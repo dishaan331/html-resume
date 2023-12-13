@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../4.0 File Paths"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "4.1+Webpages"
+	}
+}
